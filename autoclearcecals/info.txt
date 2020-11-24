@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "Auto-Cleaning Decals [No ULX and more admins mod]"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "tool",
+	"tags": 
+	[
+		"fun",
+		"roleplay"
+	]
+}"
+}
